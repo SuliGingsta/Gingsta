@@ -1,6 +1,6 @@
-<script>
-	let y;
-	let z;
+<script lang "ts">
+	let y: number;
+	let z: number;
 	let size = 42;
 	let text = 'edit this text';
 </script>
